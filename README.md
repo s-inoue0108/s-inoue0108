@@ -1,7 +1,6 @@
 Organic and computational chemistry student, Web Front-end learner.
 
-My website:
-https://siwl.dev
+- [My Website](https://siwl.dev)
 
 <!---
 s-inoue0108/s-inoue0108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
