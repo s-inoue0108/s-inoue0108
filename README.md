@@ -1,6 +1,6 @@
-Organic and Computational Chemistry Student, Material Informatics, Machine Learning, Web Front-End.
+Computational chemistry student, Web frontend developer.
 
-- [My Website](https://siwl.dev)
+- [Website](https://siwl.dev)
 - [Zenn](https://zenn.dev/s_inoue0108)
 
 <!---
