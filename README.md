@@ -2,7 +2,7 @@
 
 Computational chemistry student, Web frontend developer.
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=s-inoue0108&show_icons=true&locale=en&layout=normal&bg_color=90,ffffff,000000)
 
 # Skills
 
@@ -12,4 +12,8 @@ Computational chemistry student, Web frontend developer.
 
 ## Frameworks
 
-![](https://skillicons.dev/icons?i=tailwind,nodejs,vue,solidjs,nuxtjs,astrojs,anaconda,sklearn)
+![](https://skillicons.dev/icons?i=tailwind,nodejs,vue,solidjs,nuxtjs,astro,sklearn)
+
+## Environments
+
+![](https://skillicons.dev/icons?i=tailwind,nodejs,vue,solidjs,nuxtjs,astro,sklearn)
