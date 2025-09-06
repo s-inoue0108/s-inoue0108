@@ -1,10 +1,15 @@
 # 👋 Hello, I'm `s-inoue0108`
 
-Computational chemistry student, Web frontend developer.
+- Computational chemistry student
+- Web frontend develop (Personal)
+- [Personal web](https://siwl.dev)
+- [Zenn](https://zenn.dev/s_inoue0108)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=s-inoue0108&show_icons=true&locale=en&layout=compact&bg_color=0,1e46b4,7852dc&title_color=fefefe&text_color=fefefe)
+## 👀 Products
 
-## Skills
+
+
+## 🖥️ Skills
 
 ### Languages
 
