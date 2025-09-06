@@ -5,10 +5,6 @@
 - [Personal web](https://siwl.dev)
 - [Zenn](https://zenn.dev/s_inoue0108)
 
-## Products
-
-
-
 ## Skills
 
 ### Languages
