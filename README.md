@@ -1,4 +1,4 @@
-# Hello, I'm `s-inoue0108`
+# 👋 Hello, I'm `s-inoue0108`
 
 Computational chemistry student, Web frontend developer.
 
