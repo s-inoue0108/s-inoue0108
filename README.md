@@ -2,7 +2,7 @@
 
 Computational chemistry student, Web frontend developer.
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=s-inoue0108&show_icons=true&locale=en&layout=compact&bg_color=0,1e46b4,7852dc)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=s-inoue0108&show_icons=true&locale=en&layout=compact&bg_color=0,1e46b4,7852dc&title_color=fefefe&text_color=fefefe)
 
 # Skills
 
