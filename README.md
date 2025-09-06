@@ -1,7 +1,7 @@
 # 👋 Hello, I'm `s-inoue0108`
 
-- Computational chemistry student
-- Web frontend develop (Personal)
+- Computational chemistry (Molecular dynamics, Quantum chemical calculation, Materials informatics)
+- Web development (Frontend, Jamstack)
 - [Personal web](https://siwl.dev)
 - [Zenn](https://zenn.dev/s_inoue0108)
 
