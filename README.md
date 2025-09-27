@@ -19,4 +19,4 @@
 
 ### Data Science
 
-![](https://skillicons.dev/icons?i=sklearn,r,anaconda)
+![](https://skillicons.dev/icons?i=sklearn,pytorch,r,anaconda)
