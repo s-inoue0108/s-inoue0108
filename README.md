@@ -20,3 +20,8 @@
 ### Data Science
 
 ![](https://skillicons.dev/icons?i=sklearn,pytorch,r,anaconda)
+
+### Computational Chemistry
+
+- Molecular Dynamics - [GROMACS](https://www.gromacs.org/)
+- Quantum Chemistry - [Gaussian](https://gaussian.com/) / [ORCA](https://www.faccts.de/orca/)
