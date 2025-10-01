@@ -19,7 +19,7 @@
 
 ### Data Science
 
-![](https://skillicons.dev/icons?i=sklearn,pytorch,r,anaconda)
+![](https://skillicons.dev/icons?i=sklearn,pytorch,anaconda)
 
 ### Computational Chemistry
 
