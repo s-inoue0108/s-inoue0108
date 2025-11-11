@@ -9,15 +9,15 @@
 
 ### Languages
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,py,bash)
+![](https://skillicons.dev/icons?i=js,ts,py,bash)
+
+### Markup & Styling
+
+![](https://skillicons.dev/icons?i=html,css,md,latex)
 
 ### Web Frameworks
 
 ![](https://skillicons.dev/icons?i=tailwind,sass,vue,solidjs,nuxtjs,astro,nodejs,laravel)
-
-### Tools
-
-![](https://skillicons.dev/icons?i=md,vscode,obsidian,npm,yarn,vite,git,github)
 
 ### Machine Learning
 
@@ -27,3 +27,7 @@
 
 - Molecular Dynamics - [GROMACS](https://www.gromacs.org/)
 - Quantum Chemistry - [Gaussian](https://gaussian.com/)
+
+### Tools
+
+![](https://skillicons.dev/icons?i=vscode,obsidian,npm,yarn,vite,git,github)
