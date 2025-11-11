@@ -11,13 +11,15 @@
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,py,bash)
 
-### Web Toolkit
+### Web Frameworks
 
-![](https://skillicons.dev/icons?i=md,tailwind,sass,nodejs,vue,solidjs,nuxtjs,astro)
+![](https://skillicons.dev/icons?i=tailwind,sass,vue,solidjs,nuxtjs,astro,nodejs,laravel)
 
-![](https://skillicons.dev/icons?i=vscode,obsidian,npm,yarn,vite,git,github,cloudflare,vercel)
+### Tools
 
-### Data Science
+![](https://skillicons.dev/icons?i=md,vscode,obsidian,npm,yarn,vite,git,github)
+
+### Machine Learning
 
 ![](https://skillicons.dev/icons?i=sklearn,pytorch)
 
