@@ -4,7 +4,7 @@
 - Web development (Frontend, Jamstack)
 - [Personal web](https://siwl.dev)
 
-![Shota Inoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-inoue0108&show_icons=true&theme=radical)
+[![Shota Inoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-inoue0108)](https://github.com/s-inoue0108/github-readme-stats)
 
 ## Skills
 
