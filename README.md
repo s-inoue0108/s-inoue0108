@@ -21,6 +21,8 @@
   </a>
 </p>
 
+---
+
 ## Skills
 
 ### Languages
