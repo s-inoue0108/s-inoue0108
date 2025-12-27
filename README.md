@@ -3,7 +3,8 @@
 - Computational chemistry (Molecular dynamics, Quantum chemical calculation, Materials informatics)
 - Web development (Frontend, Jamstack)
 - [Personal web](https://siwl.dev)
-- [Zenn](https://zenn.dev/s_inoue0108)
+
+![Shota Inoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-inoue0108&show_icons=true&theme=radical)
 
 ## Skills
 
