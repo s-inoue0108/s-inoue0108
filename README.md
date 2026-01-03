@@ -8,13 +8,13 @@
   <a href="https://github.com/username">
     <img
       height="170px"
-      src="https://github-readme-stats-blue-zeta-77.vercel.app/api?username=s-inoue0108&count_private=true&show_icons=true&theme=githubdark&include_all_commits=true"
+      src="https://github-readme-stats-blue-zeta-77.vercel.app/api?username=s-inoue0108&count_private=true&show_icons=true&theme=dark&include_all_commits=true"
     />
   </a>
   <a href="https://github.com/s-inoue0108">
     <img
       height="170px"
-      src="https://github-readme-stats-blue-zeta-77.vercel.app/api/top-langs/?username=s-inoue0108&layout=compact&theme=githubdark&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats-blue-zeta-77.vercel.app/api/top-langs/?username=s-inoue0108&layout=compact&theme=dark&count_private=true&include_all_commits=true"
     />
   </a>
 </p>
