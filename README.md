@@ -40,7 +40,7 @@
 ### Computational Chemistry
 
 - Molecular Dynamics - [GROMACS](https://www.gromacs.org/)
-- Quantum Chemistry - [Gaussian](https://gaussian.com/)
+- Quantum Chemistry - [Gaussian](https://gaussian.com/), [ORCA](https://www.faccts.de/orca/)
 
 ### DevTools
 
