@@ -1,6 +1,6 @@
 # 👋 Hello, I'm `s-inoue0108`.
 
-- Computational chemistry (Molecular dynamics, Quantum chemical calculation, Materials informatics)
+- Computational chemistry (Molecular dynamics, Quantum chemical calculation, Deep Machine Learning)
 - Web development (Frontend, Jamstack)
 - [Personal web](https://siwl.dev)
 
