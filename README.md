@@ -7,7 +7,7 @@
 
 ## Skills
 
-![](https://skillicons.dev/icons?i=js,ts,py,bash)
+![](https://skillicons.dev/icons?i=ts,py,bash,go)
 
 ![](https://skillicons.dev/icons?i=html,css,md,latex)
 
