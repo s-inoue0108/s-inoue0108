@@ -1,8 +1,10 @@
-# Profile
+# Bio
 
 Student in Computational Chemistry and Materials/Chemoinformatics.
 
 - [Personal Web](https://siwl.dev)
+
+## Skills
 
 ![](https://skillicons.dev/icons?i=ts,py,bash,go)
 
@@ -15,4 +17,4 @@ Student in Computational Chemistry and Materials/Chemoinformatics.
 ![](https://skillicons.dev/icons?i=vscode,obsidian,npm,yarn,vite,git,github)
 
 - Molecular Dynamics - [GROMACS](https://www.gromacs.org/)
-- Quantum Chemistry - [Gaussian](https://gaussian.com/), [ORCA](https://www.faccts.de/orca/), [PySCF](https://pyscf.org/)
+- Quantum Chemistry - [Gaussian](https://gaussian.com/), [ORCA](https://www.faccts.de/orca/), [PySCF](https://pyscf.org/) etc.
