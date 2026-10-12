@@ -1,11 +1,8 @@
-# 👋 Hello, I'm `s-inoue0108`.
+# Profile
 
-- Computational Chemistry (Molecular Dynamics, Quantum Chemistry, [Materials|Chem]informatics)
-- Web Development
+Student in Computational Chemistry and Materials/Chemoinformatics.
 
-[Personal Web](https://siwl.dev)
-
-## Skills
+- [Personal Web](https://siwl.dev)
 
 ![](https://skillicons.dev/icons?i=ts,py,bash,go)
 
