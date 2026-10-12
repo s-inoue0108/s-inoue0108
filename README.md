@@ -14,7 +14,7 @@ Student in Computational Chemistry and Materials/Chemoinformatics.
 
 ### Web Frameworks
 
-![](https://skillicons.dev/icons?i=tailwind,sass,vue,solidjs,nuxtjs,astro,nodejs,laravel)
+![](https://skillicons.dev/icons?i=tailwind,sass,react,vue,solidjs,nuxtjs,astro,nodejs,laravel)
 
 ### Data Science
 
